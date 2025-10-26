@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs QA"
+  contactDetail:
+    name: "Tuan Anh - QA Team"
+    email: "anhnguyen2003contact@gmail.com"
+  onCallSupport:
+    - 0981-430-602
+    - 0868-885-514

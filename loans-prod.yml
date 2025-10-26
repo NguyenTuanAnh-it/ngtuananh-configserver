@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to loans service related production APIs"
+  contactDetails:
+    name: "NMC"
+    email: "nmc@gmail.com"
+  onCallSupport:
+    - 0394-485-444
+    - 0394-485-676

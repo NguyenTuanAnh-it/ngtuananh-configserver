@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to card service related local APIs"
+  contactDetails:
+    name: "Tuan Anh Dep Trai"
+    email: "tuananhdeptrai@gmail.com"
+  oncallSupport:
+    - 0987-647-788
+    - 0985-736-444

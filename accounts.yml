@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetail:
+    name: "Tuan Anh - Developer"
+    email: "anhnguyen2003contact@gmail.com"
+  onCallSupport:
+    - 0981-430-602
+    - 0868-885-514

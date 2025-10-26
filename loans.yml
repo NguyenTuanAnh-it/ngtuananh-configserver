@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to loans service related local APIs"
+  contactDetail:
+    name: "Tuan Anh Dep Trai"
+    email: "tuananhdeptrai@gmail.com"
+  onCallSupport:
+    - 0984-848-777
+    - 0984-848-333

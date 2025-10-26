@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to cards service related production APIs"
+  contactDetails:
+    name: "NTAAA"
+    email: "ntaaa@gmail.com"
+  onCallSupport:
+    - 0958-837-484
+    - 0958-837-555

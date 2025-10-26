@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to loans service related QA APIs"
+  contact-detail:
+    name: "Mai Chi"
+    email: "maichi@gmail.com"
+  on-call-support:
+    -0498-959-444
+    -0498-959-555
