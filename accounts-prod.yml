@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related local APIs PROD"
   contactDetail:
     name: "Tuan Anh - Product Owner"
-    email: "anhnguyen2003contact@gmail.com"
+    email: "{cipher}9de9593951ccc1cb19d5d16a21aabf70fcfe48ca3a68cac6005bb6abe819cbeba4aadc03043d1e9db49768c4e598ea26"
   onCallSupport:
     - 0981-430-602
     - 0868-885-514
