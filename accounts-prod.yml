@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs PRODUCTION"
+  message: "Welcome to EazyBank accounts related local APIs PROD"
   contactDetail:
     name: "Tuan Anh - Product Owner"
     email: "{cipher}9de9593951ccc1cb19d5d16a21aabf70fcfe48ca3a68cac6005bb6abe819cbeba4aadc03043d1e9db49768c4e598ea26"
